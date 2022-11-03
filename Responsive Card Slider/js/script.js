@@ -1,11 +1,11 @@
-var swiper = new Swiper(".slide-contanier", {
-  slidesPerView: 3,
-  spaceBetween: 30,
-  slidesPerGroup: 3,
+var swiper = new Swiper(".slide-container", {
+  slidesPerView:4,
+  spaceBetween:20,
+  slidesPerGroup:4,
   loop: true,
   centerSlide : "true",
-  fade :  "true" ,
   grabCursor : "true" ,
+  fade :  "true" ,
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
