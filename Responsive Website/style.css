@@ -20,7 +20,7 @@
   transition:all 0.3s ease;
 }
 ::-webkit-scrollbar-thumb:hover {
-   background:#4070F4;
+  background:#4070F4;
 }
 /* Navigation Menu CSS */
 nav {
